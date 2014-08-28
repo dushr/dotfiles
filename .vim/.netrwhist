@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/dubizzle/Projects/fuego/fuego/context_processors'
+let g:netrw_dirhist_2='/home/dubizzle/Projects/fuego/conf/testing/em'
+let g:netrw_dirhist_3='/home/dubizzle/Projects/fuego/conf/testing/em/newrelic'
+let g:netrw_dirhist_4='/home/dubizzle/Projects/fuego/conf/testing/em/nginx'
